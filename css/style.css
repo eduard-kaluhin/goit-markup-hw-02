@@ -5,9 +5,7 @@
 }
     
     .root {--navy-blue: #2E2F42;
-
     }
-
 
 
      .link {
@@ -42,8 +40,8 @@
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
-    color: var(--navy-blue);
 }
+    
     .header-link:hover,
 .header-link:focus,
 .header-link.current {
@@ -81,10 +79,6 @@ background:  #2E2F42;
         
 }
 .hero-title {
-    font-family: 'Roboto';
-    font-style: normal;
-    font-weight: 700;
-    font-size: 56px;
     line-height: 1.07;
     letter-spacing: 0.02em;
     color: #FFFFFF;
@@ -123,46 +117,28 @@ background:  #2E2F42;
 }
 
 .about-subtitle {
-    font-weight: 500;
-    font-size: 20px;
     line-height: 1.2;
     letter-spacing: 0.02em;
     color: var(--navy-blue);
 
 }
 .about-text {
-    font-weight: 400;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #434455;
 }
-.work-title {
-    font-weight: 700;
-    font-size: 36px;
-    line-height: 1.11;
-    letter-spacing: 0.02em;
-    color: var(--navy-blue);
-}
 .personal-title {
-    font-family: 'Roboto';
-    font-style: normal;
-    font-weight: 700;
-    font-size: 36px;
     line-height: 1.11;
-    text-align: center;
     letter-spacing: 0.02em;
-    color: var(--htwo-color);   
+    color: var(--navy-blue);   
 }
 .personal-subtitle {
-    font-weight: 500;
-    font-size: 20px;
     line-height: 1.2;
     letter-spacing: 0.02em;
     color: var(--navy-blue);
 }
 .personal-text {
-    font-weight: 400;
 font-size: 16px;
 line-height: 1.5;
 letter-spacing: 0.02em;
@@ -185,7 +161,6 @@ color: #F4F4FD;
     
 }
 .foter-text { 
-    font-weight: 400;
 font-size: 16px;
 line-height: 1.5;
 letter-spacing: 0.02em;
@@ -198,59 +173,22 @@ background: #404BBF;
 color: #FFFFFF;
 }
 .job-btn{
-    font-family: 'Roboto';
-font-style: normal;
-font-weight: 500;
-font-size: 16px;
 line-height: 1.5;
 letter-spacing: 0.04em;
 color: #4D5AE5;
+cursor: pointer;
 }
 
 .work-title {
-    font-family: 'Roboto';
-    font-style: normal;
-    font-weight: 700;
-    font-size: 36px;
     line-height: 1.11;
     letter-spacing: 0.02em;
     color: var(--navy-blue);
     
 }
 .work-text {
-    font-family: 'Roboto';
-    font-style: normal;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #434455;
 }
-.personal-title {
-    font-family: 'Roboto';
-    font-style: normal;
-    font-weight: 700;
-    font-size: 36px;
-    line-height: 1.11;
-    letter-spacing: 0.02em;
-    color: var(--navy-blue);
-    
-}
-.personal-subtitle {
-    font-family: 'Roboto';
-font-style: normal;
-font-weight: 500;
-font-size: 20px;
-line-height: 1.2;
-letter-spacing: 0.02em;
-color: var(--navy-blue);
-}
-.personal-text {
-    font-family: 'Roboto';
-font-style: normal;
-font-weight: 400;
-font-size: 16px;
-line-height: 1.5;
-letter-spacing: 0.02em;
-color: #434455;
 
-}
