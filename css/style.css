@@ -23,7 +23,7 @@
     font-family: 'Raleway';
     font-weight: 800;
     font-size: 18px;
-    line-height: 13.3;
+    line-height: 1.33;
     letter-spacing: 0.03em;
     color: #4D5AE5; 
 }
@@ -111,6 +111,7 @@
     color: var(--navy-blue);
 }
 .personal-subtitle {
+    font-style: normal;
     line-height: 1.11;
     letter-spacing: 0.02em;
     color: var(--navy-blue);   
