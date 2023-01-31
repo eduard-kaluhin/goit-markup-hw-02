@@ -42,7 +42,14 @@
 .addres-email:hover,
 .addres-email:focus,
 .addres-email.current{
-    color:  #404BBF;      
+    color:  #404BBF;
+}   
+.addres-email {
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 1.5;
+        letter-spacing: 0.02em;
+        color: #434455;      
 }
 .addres-number:hover,
 .addres-number:focus,
