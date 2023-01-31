@@ -14,8 +14,14 @@
     .list {
         list-style: none;
     }
+   
     .logo-web {
-        color: #2E2F42;  
+font-family: 'Raleway';
+font-weight: 800;
+font-size: 18px;
+line-height: 13.3;
+letter-spacing: 0.03em;
+color: #4D5AE5;
     }
     .header-logo {
         font-weight: 500;
