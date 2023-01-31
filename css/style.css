@@ -13,28 +13,9 @@
     }
     .list {
         list-style: none;
+}
 
-}
-.logo-web {
-    font-family: 'Raleway';
-    font-style: normal;
-    font-weight: 800;
-    font-size: 18px;
-    line-height: 1.33;
-    letter-spacing: 0.03em;
-    color: #4D5AE5;
 
-}
-.heder-logo {
-    font-family: 'Raleway';
-    font-style: normal;
-    font-weight: 800;
-    font-size: 18px;
-    line-height: 1.17;  
-    letter-spacing: 0.03em;
-    text-transform: uppercase;
-    color: var(--navy-blue);   
-}
 .header-link {
     font-weight: 500;
     font-size: 16px;
@@ -82,24 +63,14 @@ background:  #2E2F42;
     line-height: 1.07;
     letter-spacing: 0.02em;
     color: #FFFFFF;
-  
-
 }
-
     .hero-btn:hover,
     .header-btn:focus,
     .header-btn.current{ 
     background: #404BBF;
 }
 .hero-btn {
-    font-family: 'Roboto';
-    font-style: normal;
-    font-weight: 500;
-    font-size: 16px;
-    line-height: 1.5;
     align-items: center;
-    letter-spacing: 0.04em;
-    color: #FFFFFF;
     background: #4D5AE5;
     cursor: pointer;
 }
@@ -173,9 +144,6 @@ background: #404BBF;
 color: #FFFFFF;
 }
 .job-btn{
-line-height: 1.5;
-letter-spacing: 0.04em;
-color: #4D5AE5;
 cursor: pointer;
 }
 
