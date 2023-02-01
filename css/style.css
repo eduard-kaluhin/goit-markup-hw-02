@@ -116,6 +116,9 @@
     letter-spacing: 0.02em;
     color: var(--navy-blue);
 }
+.personal {
+    background: #F4F4FD;
+}
 .personal-subtitle {
     line-height: 1.11;
     letter-spacing: 0.02em;
@@ -128,7 +131,7 @@
     color: #434455;
 }
 .foter {
-    background:  #2E2F42;
+    background: #2E2F42;
 }
 .foter-logo {
     font-family: 'Raleway';
@@ -170,5 +173,5 @@ color: #4D5AE5;
 }
 
 .footer-portfplio {
-    background: var(--navy-blue);   
+    background: #2E2F42;   
 }
