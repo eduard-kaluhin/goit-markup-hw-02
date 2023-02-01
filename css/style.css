@@ -64,7 +64,7 @@
     color: #434455;
 }
 .hero-section {
-    background: var(--navy-blue);
+    background:  #2E2F42;
 }
 .hero-title {
     font-size: 56px;
@@ -78,6 +78,13 @@
     background: #404BBF;
 }
 .hero-btn {
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    display: flex;
+    align-items: center;
+    letter-spacing: 0.04em;
+    color: #FFFFFF;
     background: #4D5AE5;
     cursor: pointer;
 }
@@ -121,7 +128,7 @@
     color: #434455;
 }
 .foter {
-    background: var(--navy-blue);
+    background:  #2E2F42;
 }
 .foter-logo {
     font-family: 'Raleway';
@@ -139,11 +146,11 @@
 }
 .job-btn:hover,
 .job-btn:focus,
-.job-btn.current{ 
+.job-btn.current { 
     background: #404BBF;
     color: #FFFFFF;
 }
-.job-btn{
+.job-btn {
 font-weight: 500;
 font-size: 16px;
 line-height: 1.5;
@@ -162,6 +169,6 @@ color: #4D5AE5;
     color: #434455;
 }
 
-.footer-portfplio  {
-    background: var(--navy-blue)   
+.footer-portfplio {
+    background: var(--navy-blue);   
 }
