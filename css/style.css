@@ -16,7 +16,7 @@
     font-size: 18px;
     line-height: 1.33;
     letter-spacing: 0.03em;
-    color: #2E2F42;
+    color: var(--navy-blue);
 }
 .logo-web {
     font-family: 'Raleway';
@@ -36,7 +36,7 @@
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
-    color: #2E2F42;
+    color: var(--navy-blue);
 }
 .addres-email:hover,
 .addres-email:focus,
@@ -65,7 +65,7 @@
     color: #434455;
 }
 .hero-section {
-    background:  #2E2F42;
+    background:  var(--navy-blue);
 }
 .hero-title {
     font-weight: 700;
@@ -124,7 +124,7 @@
     color: #434455;
 }
 .foter {
-    background: #2E2F42;
+    background: var(--navy-blue);
 }
 .foter-logo {
     font-family: 'Raleway';
@@ -157,4 +157,5 @@
 }
 
 .footer-portfplio  {
-    background: #2E2F42;   }
+    background: var(--navy-blue)   
+}
