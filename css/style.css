@@ -45,7 +45,6 @@
 }   
 .addres-email {
     font-style: normal;
-    font-weight: 400;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
@@ -65,10 +64,9 @@
     color: #434455;
 }
 .hero-section {
-    background:  var(--navy-blue);
+    background: var(--navy-blue);
 }
 .hero-title {
-    font-weight: 700;
     font-size: 56px;
     line-height: 1.07;
     letter-spacing: 0.02em;
@@ -112,7 +110,6 @@
     color: var(--navy-blue);
 }
 .personal-subtitle {
-    font-style: normal;
     line-height: 1.11;
     letter-spacing: 0.02em;
     color: var(--navy-blue);   
@@ -147,6 +144,15 @@
     color: #FFFFFF;
 }
 .job-btn{
+font-weight: 500;
+font-size: 16px;
+line-height: 1.5;
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: 0.04em;
+color: #4D5AE5;
+
     cursor: pointer;
 }
 .work-text {
