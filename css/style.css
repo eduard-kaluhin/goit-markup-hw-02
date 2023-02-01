@@ -58,7 +58,6 @@
 }           
 .addres-number {
     font-style: normal;
-    font-weight: 400;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
@@ -102,6 +101,7 @@
     margin: -1px;
 }
 .about-subtitle {
+    font-weight: 500;
     line-height: 1.2;
     letter-spacing: 0.02em;
     color: var(--navy-blue);
@@ -113,6 +113,7 @@
     color: #434455;
 }
 .work-title {
+    font-weight: 500;
     line-height: 1.11;
     letter-spacing: 0.02em;
     color: var(--navy-blue);
@@ -121,6 +122,7 @@
     background: #F4F4FD;
 }
 .personal-subtitle {
+    font-weight: 500;
     line-height: 1.11;
     letter-spacing: 0.02em;
     color: var(--navy-blue);   
