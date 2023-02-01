@@ -2,7 +2,8 @@
         font-family: 'Roboto', sans-serif; 
         background-color: #FFFFFF;
 }  
-.root { --navy-blue: #2E2F42;
+.root {
+     --navy-blue: #2E2F42;
 }
 .link {
     text-decoration: none;
