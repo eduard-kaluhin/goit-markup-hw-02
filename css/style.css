@@ -1,6 +1,6 @@
-.body {
-        font-family: 'Roboto', sans-serif; 
-        background-color: #FFFFFF;
+body {
+    font-family: 'Roboto', sans-serif; 
+    background-color: #FFFFFF;
 }  
 .root {
      --navy-blue: #2E2F42;
@@ -12,7 +12,7 @@
     list-style: none;
 }
 .heder-logo {
-    font-family: 'Raleway';
+    font-family: 'Raleway', sans-serif; 
     font-weight: 800;
     font-size: 18px;
     line-height: 1.33;
@@ -20,7 +20,7 @@
     color: var(--navy-blue);
 }
 .logo-web {
-    font-family: 'Raleway';
+    font-family: 'Raleway', sans-serif; 
     font-weight: 800;
     font-size: 18px;
     line-height: 1.33;
@@ -113,6 +113,7 @@
     color: #434455;
 }
 .work-title {
+    font-weight: 500;
     line-height: 1.11;
     letter-spacing: 0.02em;
     color: var(--navy-blue);
@@ -136,7 +137,7 @@
     background: #2E2F42;
 }
 .foter-logo {
-    font-family: 'Raleway';
+    font-family: 'Raleway', sans-serif; 
     font-weight: 800;
     font-size: 18px;
     line-height: 1.17;
@@ -172,6 +173,18 @@ color: #4D5AE5;
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #434455;
+}
+.logo-web-portfplio {
+font-family: 'Raleway', sans-serif;
+font-style: normal;
+font-weight: 800;
+font-size: 18px;
+line-height: 1.17;
+display: flex;
+align-items: center;
+letter-spacing: 0.03em;
+text-transform: uppercase;
+color: #4D5AE5;  
 }
 
 .footer-portfplio {
